@@ -17,7 +17,7 @@
 				parallax: true,
 
 			// Parallax factor (lower = more intense, higher = less intense).
-				parallaxFactor: 5
+				parallaxFactor: 100
 
 		};
 
